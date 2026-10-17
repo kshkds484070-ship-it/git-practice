@@ -15,3 +15,4 @@ This repository was created for the Git practice lab.
 - `git-commands.md`: useful Git commands
 - `practice-notes.txt`: short practice notes
 - `sample.py`: a tiny example program
+Git practice update 1
