@@ -16,3 +16,4 @@ This repository was created for the Git practice lab.
 - `practice-notes.txt`: short practice notes
 - `sample.py`: a tiny example program
 Git practice update 1
+Git practice update 2
