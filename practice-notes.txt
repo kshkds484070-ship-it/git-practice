@@ -1,0 +1,7 @@
+Git Practice Notes
+
+1. Modified: a file has changed.
+2. Staged: a change is selected for the next commit.
+3. Committed: a snapshot has been saved in Git history.
+4. .gitignore lists files Git should ignore.
+5. git log shows commit history.
